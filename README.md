@@ -4,8 +4,9 @@
  ### Apple Human Interface Guideline dokumani okunacak. Ardindan en cok kullandiginiz 3 uygulamanin hangi ozellikleri (en az 1er adet) bu standartlara uymuyor belirtilecek.
  
  * [Istanbulkart](https://apps.apple.com/tr/app/istanbulkart/id1352307391?l=tr)
- Uygulama odeme ekraninda kart onayindan sonra yapilan islemler sirasinda  indicator kullaniciya dogru bilgi dondurmuyor.
+ - Uygulama odeme ekraninda kart onayindan sonra yapilan islemler sirasinda  indicator kullaniciya dogru bilgi dondurmuyor.
  3 Farkli islemden gectigi indicatorun bastan baslamasi ile anlasiliyor. Kullanici bilgilendirilmesi yapilmasi gerekiyor.
+ 
  - Ayni zamanda yukleme basarili olarak gosterip bekleyen islemlere yuklenen tutar gecis yapip magduriyete sebep veriyor.
  
  * [ClubArt](https://apps.apple.com/tr/app/clubart-border-for-clubhouse/id1558367203)
@@ -19,6 +20,7 @@
  * [Moovit](https://apps.apple.com/us/app/moovit-all-transit-options/id498477945)
 
 - Apple izin prensiplerine gore cihaz ya da kulanici bilgi erisiminde o bilgi ve erisim kullanilirken izin istenmesi gerektigi ve uygulama icinde izinleri ne amacla nasil kullanacagi izin aciklamasinda yazilmasi gerektigi belirtilmisken, Moovit uygulamasi konum bilgisini uygulamada hicbir islem yapmazken uygulama acilisinda  daha iyi bir kullanim adi altinda izin istemektedir.Prensiplere aykiri bir durumdur.
+- Kilavuza gore onBoard bilgilendirme yapilmali seklinde bahsedilirken Moovit uygulamasinda izinler hemen ard arda onboard ile beraber gelmektedir.
 
 
 * [Getir](https://apps.apple.com/tr/app/getir-groceries-in-minutes/id995280265)
